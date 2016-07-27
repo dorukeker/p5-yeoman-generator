@@ -1,0 +1,9 @@
+{
+  "name": "p5project",
+  "scripts": {
+    "start": "lr-http-server -p 4000"
+  },
+  "devDependencies": {
+    "lr-http-server": "0.1.1"
+  }
+}
